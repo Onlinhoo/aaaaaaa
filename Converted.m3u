@@ -1,0 +1,1015 @@
+#EXTM3U
+#EXTINF:0 tvg-id="Ae.br" group-title="FILMES E SERIES",A&E
+http://p2x.live:8080/adriana1/123456/322
+#EXTINF:0 tvg-id="Ae.br" group-title="FILMES E SERIES",A&E FHD
+http://p2x.live:8080/adriana1/123456/610
+#EXTINF:0 tvg-id="Ae.br" group-title="FILMES E SERIES",A&E FHD H265
+http://p2x.live:8080/adriana1/123456/133
+#EXTINF:0 tvg-id="Ae.br" group-title="FILMES E SERIES",A&E HD
+http://p2x.live:8080/adriana1/123456/1
+#EXTINF:0 tvg-id="Amc.br" group-title="FILMES E SERIES",AMC
+http://p2x.live:8080/adriana1/123456/323
+#EXTINF:0 tvg-id="Amc.br" group-title="FILMES E SERIES",AMC FHD
+http://p2x.live:8080/adriana1/123456/599
+#EXTINF:0 tvg-id="Amc.br" group-title="FILMES E SERIES",AMC FHD H265
+http://p2x.live:8080/adriana1/123456/134
+#EXTINF:0 tvg-id="Amc.br" group-title="FILMES E SERIES",AMC HD
+http://p2x.live:8080/adriana1/123456/2
+#EXTINF:0 tvg-id="Axn.br" group-title="FILMES E SERIES",AXN
+http://p2x.live:8080/adriana1/123456/325
+#EXTINF:0 tvg-id="Axn.br" group-title="FILMES E SERIES",AXN FHD
+http://p2x.live:8080/adriana1/123456/594
+#EXTINF:0 tvg-id="Axn.br" group-title="FILMES E SERIES",AXN FHD H265
+http://p2x.live:8080/adriana1/123456/136
+#EXTINF:0 tvg-id="Axn.br" group-title="FILMES E SERIES",AXN HD
+http://p2x.live:8080/adriana1/123456/4
+#EXTINF:0 tvg-id="Canalbrasil.br" group-title="FILMES E SERIES",CANAL BRASIL
+http://p2x.live:8080/adriana1/123456/333
+#EXTINF:0 tvg-id="Canalbrasil.br" group-title="FILMES E SERIES",CANAL BRASIL FHD H265
+http://p2x.live:8080/adriana1/123456/141
+#EXTINF:0 tvg-id="Cinemax.br" group-title="FILMES E SERIES",CINEMAX
+http://p2x.live:8080/adriana1/123456/338
+#EXTINF:0 tvg-id="Cinemax.br" group-title="FILMES E SERIES",CINEMAX FHD
+http://p2x.live:8080/adriana1/123456/600
+#EXTINF:0 tvg-id="Cinemax.br" group-title="FILMES E SERIES",CINEMAX FHD H265
+http://p2x.live:8080/adriana1/123456/144
+#EXTINF:0 tvg-id="Cinemax.br" group-title="FILMES E SERIES",CINEMAX HD
+http://p2x.live:8080/adriana1/123456/9
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",FILM & ART FHD
+http://p2x.live:8080/adriana1/123456/614
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",FILM & ART HD
+http://p2x.live:8080/adriana1/123456/132
+#EXTINF:0 tvg-id="FilmArts.ar" group-title="FILMES E SERIES",FILM & ARTS
+http://p2x.live:8080/adriana1/123456/356
+#EXTINF:0 tvg-id="Fox.br" group-title="FILMES E SERIES",FOX
+http://p2x.live:8080/adriana1/123456/359
+#EXTINF:0 tvg-id="Fox.br" group-title="FILMES E SERIES",FOX FHD
+http://p2x.live:8080/adriana1/123456/595
+#EXTINF:0 tvg-id="Fox.br" group-title="FILMES E SERIES",FOX FHD H265
+http://p2x.live:8080/adriana1/123456/164
+#EXTINF:0 tvg-id="Fox.br" group-title="FILMES E SERIES",FOX HD
+http://p2x.live:8080/adriana1/123456/28
+#EXTINF:0 tvg-id="Foxlife.br" group-title="FILMES E SERIES",FOX LIFE
+http://p2x.live:8080/adriana1/123456/360
+#EXTINF:0 tvg-id="Foxlife.br" group-title="FILMES E SERIES",FOX LIFE FHD
+http://p2x.live:8080/adriana1/123456/596
+#EXTINF:0 tvg-id="Foxlife.br" group-title="FILMES E SERIES",FOX LIFE HD
+http://p2x.live:8080/adriana1/123456/29
+#EXTINF:0 tvg-id="Foxpremium1.br" group-title="FILMES E SERIES",FOX PREMIUM 1 FHD
+http://p2x.live:8080/adriana1/123456/597
+#EXTINF:0 tvg-id="Foxpremium1.br" group-title="FILMES E SERIES",FOX PREMIUM 1 FHD H265
+http://p2x.live:8080/adriana1/123456/165
+#EXTINF:0 tvg-id="Foxpremium1.br" group-title="FILMES E SERIES",FOX PREMIUM 1 HD
+http://p2x.live:8080/adriana1/123456/30
+#EXTINF:0 tvg-id="Foxpremium2.br" group-title="FILMES E SERIES",FOX PREMIUM 2 FHD
+http://p2x.live:8080/adriana1/123456/598
+#EXTINF:0 tvg-id="Foxpremium2.br" group-title="FILMES E SERIES",FOX PREMIUM 2 FHD H265
+http://p2x.live:8080/adriana1/123456/166
+#EXTINF:0 tvg-id="Foxpremium2.br" group-title="FILMES E SERIES",FOX PREMIUM 2 HD
+http://p2x.live:8080/adriana1/123456/31
+#EXTINF:0 tvg-id="Fx.br" group-title="FILMES E SERIES",FX
+http://p2x.live:8080/adriana1/123456/364
+#EXTINF:0 tvg-id="Fx.br" group-title="FILMES E SERIES",FX FHD
+http://p2x.live:8080/adriana1/123456/601
+#EXTINF:0 tvg-id="Fx.br" group-title="FILMES E SERIES",FX FHD H265
+http://p2x.live:8080/adriana1/123456/169
+#EXTINF:0 tvg-id="Fx.br" group-title="FILMES E SERIES",FX HD
+http://p2x.live:8080/adriana1/123456/34
+#EXTINF:0 tvg-id="Megapix.br" group-title="FILMES E SERIES",MEGAPIX
+http://p2x.live:8080/adriana1/123456/386
+#EXTINF:0 tvg-id="Megapix.br" group-title="FILMES E SERIES",MEGAPIX FHD
+http://p2x.live:8080/adriana1/123456/602
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",MEGAPIX FHD H265
+http://p2x.live:8080/adriana1/123456/186
+#EXTINF:0 tvg-id="Megapix.br" group-title="FILMES E SERIES",MEGAPIX HD
+http://p2x.live:8080/adriana1/123456/51
+#EXTINF:0 tvg-id="Paramount.uk" group-title="FILMES E SERIES",PARAMOUNT
+http://p2x.live:8080/adriana1/123456/398
+#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="FILMES E SERIES",PARAMOUNT FHD
+http://p2x.live:8080/adriana1/123456/604
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",PARAMOUNT FHD H265
+http://p2x.live:8080/adriana1/123456/195
+#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="FILMES E SERIES",PARAMOUNT HD
+http://p2x.live:8080/adriana1/123456/60
+#EXTINF:0 tvg-id="set" group-title="FILMES E SERIES",SONY
+http://p2x.live:8080/adriana1/123456/335
+#EXTINF:0 tvg-id="set" group-title="FILMES E SERIES",SONY FHD
+http://p2x.live:8080/adriana1/123456/603
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",SONY FHD H265
+http://p2x.live:8080/adriana1/123456/142
+#EXTINF:0 tvg-id="set" group-title="FILMES E SERIES",SONY HD
+http://p2x.live:8080/adriana1/123456/7
+#EXTINF:0 tvg-id="Space.br" group-title="FILMES E SERIES",SPACE
+http://p2x.live:8080/adriana1/123456/423
+#EXTINF:0 tvg-id="SpaceHD.mx" group-title="FILMES E SERIES",SPACE FHD
+http://p2x.live:8080/adriana1/123456/605
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",SPACE FHD H265
+http://p2x.live:8080/adriana1/123456/205
+#EXTINF:0 tvg-id="SpaceHD.mx" group-title="FILMES E SERIES",SPACE HD
+http://p2x.live:8080/adriana1/123456/70
+#EXTINF:0 tvg-id="StudioUniversal.it" group-title="FILMES E SERIES",STUDIO UNIVERSAL
+http://p2x.live:8080/adriana1/123456/427
+#EXTINF:0 tvg-id="StudioUniversalHD.cl" group-title="FILMES E SERIES",STUDIO UNIVERSAL FHD
+http://p2x.live:8080/adriana1/123456/606
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",STUDIO UNIVERSAL FHD H265
+http://p2x.live:8080/adriana1/123456/209
+#EXTINF:0 tvg-id="StudioUniversalHD.cl" group-title="FILMES E SERIES",STUDIO UNIVERSAL HD
+http://p2x.live:8080/adriana1/123456/74
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="FILMES E SERIES",SYFY
+http://p2x.live:8080/adriana1/123456/428
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="FILMES E SERIES",SYFY FHD
+http://p2x.live:8080/adriana1/123456/616
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",SYFY FHD H265
+http://p2x.live:8080/adriana1/123456/210
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="FILMES E SERIES",SYFY HD
+http://p2x.live:8080/adriana1/123456/75
+#EXTINF:0 tvg-id="24dok" group-title="FILMES E SERIES",TBS
+http://p2x.live:8080/adriana1/123456/429
+#EXTINF:0 tvg-id="TBSHD.us" group-title="FILMES E SERIES",TBS FHD
+http://p2x.live:8080/adriana1/123456/615
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",TBS FHD H265
+http://p2x.live:8080/adriana1/123456/211
+#EXTINF:0 tvg-id="TBSHD.us" group-title="FILMES E SERIES",TBS HD
+http://p2x.live:8080/adriana1/123456/76
+#EXTINF:0 tvg-id="TCM.uk" group-title="FILMES E SERIES",TCM
+http://p2x.live:8080/adriana1/123456/430
+#EXTINF:0 tvg-id="tnt" group-title="FILMES E SERIES",TNT
+http://p2x.live:8080/adriana1/123456/439
+#EXTINF:0 tvg-id="tnt" group-title="FILMES E SERIES",TNT FHD
+http://p2x.live:8080/adriana1/123456/544
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",TNT FHD H265
+http://p2x.live:8080/adriana1/123456/219
+#EXTINF:0 tvg-id="tnt" group-title="FILMES E SERIES",TNT HD
+http://p2x.live:8080/adriana1/123456/84
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="FILMES E SERIES",TNT SERIES
+http://p2x.live:8080/adriana1/123456/440
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="FILMES E SERIES",TNT SERIES FHD
+http://p2x.live:8080/adriana1/123456/608
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",TNT SERIES FHD H265
+http://p2x.live:8080/adriana1/123456/220
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="FILMES E SERIES",TNT SERIES HD
+http://p2x.live:8080/adriana1/123456/85
+#EXTINF:0 tvg-id="Universal.uk" group-title="FILMES E SERIES",UNIVERSAL CHANNEL
+http://p2x.live:8080/adriana1/123456/465
+#EXTINF:0 tvg-id="Universal.uk" group-title="FILMES E SERIES",UNIVERSAL CHANNEL FHD
+http://p2x.live:8080/adriana1/123456/607
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",UNIVERSAL CHANNEL FHD H265
+http://p2x.live:8080/adriana1/123456/224
+#EXTINF:0 tvg-id="Universal.uk" group-title="FILMES E SERIES",UNIVERSAL CHANNEL HD
+http://p2x.live:8080/adriana1/123456/90
+#EXTINF:0 tvg-id="WarnerChannel.mx" group-title="FILMES E SERIES",WARNER CHANNEL
+http://p2x.live:8080/adriana1/123456/461
+#EXTINF:0 tvg-id="WarnerChannelHD.ar" group-title="FILMES E SERIES",WARNER CHANNEL FHD
+http://p2x.live:8080/adriana1/123456/609
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",WARNER CHANNEL FHD H265
+http://p2x.live:8080/adriana1/123456/226
+#EXTINF:0 tvg-id="WarnerChannelHD.ar" group-title="FILMES E SERIES",WARNER CHANNEL HD
+http://p2x.live:8080/adriana1/123456/93
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="DOCUMENTARIOS",ANIMAL PLANET
+http://p2x.live:8080/adriana1/123456/324
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD
+http://p2x.live:8080/adriana1/123456/563
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD H265
+http://p2x.live:8080/adriana1/123456/135
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+http://p2x.live:8080/adriana1/123456/3
+#EXTINF:0 tvg-id="Discovery.br" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
+http://p2x.live:8080/adriana1/123456/342
+#EXTINF:0 tvg-id="Discovery.br" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL FHD
+http://p2x.live:8080/adriana1/123456/567
+#EXTINF:0 tvg-id="Discovery.br" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL FHD H265
+http://p2x.live:8080/adriana1/123456/147
+#EXTINF:0 tvg-id="Discovery.br" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
+http://p2x.live:8080/adriana1/123456/12
+#EXTINF:0 tvg-id="Homehealth.br" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH
+http://p2x.live:8080/adriana1/123456/343
+#EXTINF:0 tvg-id="Homehealth.br" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH FHD
+http://p2x.live:8080/adriana1/123456/566
+#EXTINF:0 tvg-id="Homehealth.br" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH FHD H265
+http://p2x.live:8080/adriana1/123456/149
+#EXTINF:0 tvg-id="Homehealth.br" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD
+http://p2x.live:8080/adriana1/123456/14
+#EXTINF:0 tvg-id="DiscoveryScience.br" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE FHD
+http://p2x.live:8080/adriana1/123456/579
+#EXTINF:0 tvg-id="DiscoveryScience.br" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE FHD H265
+http://p2x.live:8080/adriana1/123456/151
+#EXTINF:0 tvg-id="DiscoveryScience.br" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE HD
+http://p2x.live:8080/adriana1/123456/16
+#EXTINF:0 tvg-id="Hdtheater.br" group-title="DOCUMENTARIOS",DISCOVERY THEATER FHD
+http://p2x.live:8080/adriana1/123456/580
+#EXTINF:0 tvg-id="Hdtheater.br" group-title="DOCUMENTARIOS",DISCOVERY THEATER FHD H265
+http://p2x.live:8080/adriana1/123456/152
+#EXTINF:0 tvg-id="Hdtheater.br" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD
+http://p2x.live:8080/adriana1/123456/17
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="DOCUMENTARIOS",DISCOVERY TURBO
+http://p2x.live:8080/adriana1/123456/345
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="DOCUMENTARIOS",DISCOVERY TURBO FHD
+http://p2x.live:8080/adriana1/123456/577
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="DOCUMENTARIOS",DISCOVERY TURBO FHD H265
+http://p2x.live:8080/adriana1/123456/153
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD
+http://p2x.live:8080/adriana1/123456/18
+#EXTINF:0 tvg-id="Discoveryworldhd.br" group-title="DOCUMENTARIOS",DISCOVERY WORD FHD
+http://p2x.live:8080/adriana1/123456/561
+#EXTINF:0 tvg-id="Discoveryworldhd.br" group-title="DOCUMENTARIOS",DISCOVERY WORLD FHD H265
+http://p2x.live:8080/adriana1/123456/154
+#EXTINF:0 tvg-id="Discoveryworldhd.br" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD
+http://p2x.live:8080/adriana1/123456/19
+#EXTINF:0 tvg-id="HGTV.pl" group-title="DOCUMENTARIOS",HGTV FHD
+http://p2x.live:8080/adriana1/123456/620
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTARIOS",HGTV FHD H265
+http://p2x.live:8080/adriana1/123456/148
+#EXTINF:0 tvg-id="HGTV.pl" group-title="DOCUMENTARIOS",HGTV HD
+http://p2x.live:8080/adriana1/123456/13
+#EXTINF:0 tvg-id="history-rus" group-title="DOCUMENTARIOS",HISTORY
+http://p2x.live:8080/adriana1/123456/464
+#EXTINF:0 tvg-id="history2-rus" group-title="DOCUMENTARIOS",HISTORY 2
+http://p2x.live:8080/adriana1/123456/378
+#EXTINF:0 tvg-id="H2.uk" group-title="DOCUMENTARIOS",HISTORY 2 FHD
+http://p2x.live:8080/adriana1/123456/565
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTARIOS",HISTORY 2 FHD H265
+http://p2x.live:8080/adriana1/123456/179
+#EXTINF:0 tvg-id="H2.uk" group-title="DOCUMENTARIOS",HISTORY 2 HD
+http://p2x.live:8080/adriana1/123456/44
+#EXTINF:0 tvg-id="HistoryHD.ru" group-title="DOCUMENTARIOS",HISTORY FHD
+http://p2x.live:8080/adriana1/123456/542
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTARIOS",HISTORY FHD H265
+http://p2x.live:8080/adriana1/123456/178
+#EXTINF:0 tvg-id="HistoryHD.ru" group-title="DOCUMENTARIOS",HISTORY HD
+http://p2x.live:8080/adriana1/123456/45
+#EXTINF:0 tvg-id="natgeo_hd" group-title="DOCUMENTARIOS",NATGEO FHD
+http://p2x.live:8080/adriana1/123456/564
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTARIOS",NATGEO FHD H265
+http://p2x.live:8080/adriana1/123456/189
+#EXTINF:0 tvg-id="natgeo_hd" group-title="DOCUMENTARIOS",NATGEO HD
+http://p2x.live:8080/adriana1/123456/54
+#EXTINF:0 tvg-id="natgeowild" group-title="DOCUMENTARIOS",NATGEO WILD
+http://p2x.live:8080/adriana1/123456/392
+#EXTINF:0 tvg-id="wild-hd" group-title="DOCUMENTARIOS",NATGEO WILD FHD
+http://p2x.live:8080/adriana1/123456/562
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTARIOS",NATGEO WILD FHD H265
+http://p2x.live:8080/adriana1/123456/190
+#EXTINF:0 tvg-id="wild-hd" group-title="DOCUMENTARIOS",NATGEO WILD HD
+http://p2x.live:8080/adriana1/123456/56
+#EXTINF:0 tvg-id="natgeo" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
+http://p2x.live:8080/adriana1/123456/393
+#EXTINF:0 tvg-id="tlc-russia" group-title="DOCUMENTARIOS",TLC
+http://p2x.live:8080/adriana1/123456/438
+#EXTINF:0 tvg-id="tlc-russia-hd" group-title="DOCUMENTARIOS",TLC FHD
+http://p2x.live:8080/adriana1/123456/568
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTARIOS",TLC FHD H265
+http://p2x.live:8080/adriana1/123456/218
+#EXTINF:0 tvg-id="tlc-russia-hd" group-title="DOCUMENTARIOS",TLC HD
+http://p2x.live:8080/adriana1/123456/83
+
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24HRS",APENAS UM SHOW
+http://p2x.live:8080/adriana1/123456/223160
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24HRS",AVATAR - A LENDA DE KORRA
+http://p2x.live:8080/adriana1/123456/223175
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24HRS",CAÇADORES DE TROLLS
+http://p2x.live:8080/adriana1/123456/223167
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24HRS",DUCK DODGERS
+http://p2x.live:8080/adriana1/123456/223174
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24HRS",FUTURAMA
+http://p2x.live:8080/adriana1/123456/223171
+
+#EXTINF:0 tvg-id="Axn.br" group-title="LEGENDADOS",AXN FHD LEG
+http://p2x.live:8080/adriana1/123456/508
+#EXTINF:0 tvg-id="Axn.br" group-title="LEGENDADOS",AXN HD LEG
+http://p2x.live:8080/adriana1/123456/509
+#EXTINF:0 tvg-id="Fox.br" group-title="LEGENDADOS",FOX FHD LEG
+http://p2x.live:8080/adriana1/123456/506
+#EXTINF:0 tvg-id="Fox.br" group-title="LEGENDADOS",FOX HD LEG
+http://p2x.live:8080/adriana1/123456/507
+#EXTINF:0 tvg-id="Foxpremium1.br" group-title="LEGENDADOS",FOX PREMIUM 1 FHD LEG
+http://p2x.live:8080/adriana1/123456/510
+#EXTINF:0 tvg-id="Foxpremium1.br" group-title="LEGENDADOS",FOX PREMIUM 1 HD LEG
+http://p2x.live:8080/adriana1/123456/511
+#EXTINF:0 tvg-id="Foxpremium2.br" group-title="LEGENDADOS",FOX PREMIUM 2 FHD LEG
+http://p2x.live:8080/adriana1/123456/512
+#EXTINF:0 tvg-id="Foxpremium2.br" group-title="LEGENDADOS",FOX PREMIUM 2 HD LEG
+http://p2x.live:8080/adriana1/123456/513
+#EXTINF:0 tvg-id="Hbo.br" group-title="LEGENDADOS",HBO FHD LEG
+http://p2x.live:8080/adriana1/123456/494
+#EXTINF:0 tvg-id="Hbo.br" group-title="LEGENDADOS",HBO HD LEG
+http://p2x.live:8080/adriana1/123456/495
+#EXTINF:0 tvg-id="Max.br" group-title="LEGENDADOS",HBO MUNDI FHD LEG
+http://p2x.live:8080/adriana1/123456/500
+#EXTINF:0 tvg-id="Max.br" group-title="LEGENDADOS",HBO MUNDI HD LEG
+http://p2x.live:8080/adriana1/123456/501
+#EXTINF:0 tvg-id="Hboplus.br" group-title="LEGENDADOS",HBO PLUS FHD LEG
+http://p2x.live:8080/adriana1/123456/496
+#EXTINF:0 tvg-id="Hboplus.br" group-title="LEGENDADOS",HBO PLUS HD LEG
+http://p2x.live:8080/adriana1/123456/497
+#EXTINF:0 tvg-id="Maxup.br" group-title="LEGENDADOS",HBO POP FHD LEG
+http://p2x.live:8080/adriana1/123456/502
+#EXTINF:0 tvg-id="Maxup.br" group-title="LEGENDADOS",HBO POP HD LEG
+http://p2x.live:8080/adriana1/123456/503
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="LEGENDADOS",HBO SIGNATURE FHD LEG
+http://p2x.live:8080/adriana1/123456/498
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="LEGENDADOS",HBO SIGNATURE HD LEG
+http://p2x.live:8080/adriana1/123456/499
+#EXTINF:0 tvg-id="Maxprime.br" group-title="LEGENDADOS",HBO XTREAM HD LEG
+http://p2x.live:8080/adriana1/123456/505
+#EXTINF:0 tvg-id="Maxprime.br" group-title="LEGENDADOS",HBO XTREME FHD LEG
+http://p2x.live:8080/adriana1/123456/504
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",TELECINE ACTION FHD LEG
+http://p2x.live:8080/adriana1/123456/486
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",TELECINE ACTION HD LEG
+http://p2x.live:8080/adriana1/123456/487
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",TELECINE CULT FHD LEG
+http://p2x.live:8080/adriana1/123456/492
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",TELECINE CULT HD LEG
+http://p2x.live:8080/adriana1/123456/493
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",TELECINE FUN FHD LEG
+http://p2x.live:8080/adriana1/123456/490
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",TELECINE FUN HD LEG
+http://p2x.live:8080/adriana1/123456/491
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",TELECINE PIPOCA FHD LEG
+http://p2x.live:8080/adriana1/123456/482
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",TELECINE PIPOCA HD LEG
+http://p2x.live:8080/adriana1/123456/483
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",TELECINE PREMIUM FHD LEG
+http://p2x.live:8080/adriana1/123456/484
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",TELECINE PREMIUM HD LEG
+http://p2x.live:8080/adriana1/123456/485
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",TELECINE TOUCH FHD LEG
+http://p2x.live:8080/adriana1/123456/488
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",TELECINE TOUCH HD LEG
+http://p2x.live:8080/adriana1/123456/489
+
+#EXTINF:0 tvg-id="BabyTV.br" group-title="INFANTIL",BABY TV
+http://p2x.live:8080/adriana1/123456/326
+#EXTINF:0 tvg-id="Boomerang.br" group-title="INFANTIL",BOOMERANG
+http://p2x.live:8080/adriana1/123456/332
+#EXTINF:0 tvg-id="Boomerang.br" group-title="INFANTIL",BOOMERANG FHD
+http://p2x.live:8080/adriana1/123456/581
+#EXTINF:0 tvg-id="Boomerang.br" group-title="INFANTIL",BOOMERANG FHD H265
+http://p2x.live:8080/adriana1/123456/140
+#EXTINF:0 tvg-id="Boomerang.br" group-title="INFANTIL",BOOMERANG HD
+http://p2x.live:8080/adriana1/123456/129
+#EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="INFANTIL",CARTOON NETWORK
+http://p2x.live:8080/adriana1/123456/337
+#EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="INFANTIL",CARTOON NETWORK FHD
+http://p2x.live:8080/adriana1/123456/582
+#EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="INFANTIL",CARTOON NETWORK FHD H265
+http://p2x.live:8080/adriana1/123456/143
+#EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="INFANTIL",CARTOON NETWORK HD
+http://p2x.live:8080/adriana1/123456/8
+#EXTINF:0 tvg-id="Discoverykids.br" group-title="INFANTIL",DISCOVERY KIDS
+http://p2x.live:8080/adriana1/123456/344
+#EXTINF:0 tvg-id="Discoverykids.br" group-title="INFANTIL",DISCOVERY KIDS FHD
+http://p2x.live:8080/adriana1/123456/583
+#EXTINF:0 tvg-id="Discoverykids.br" group-title="INFANTIL",DISCOVERY KIDS FHD H265
+http://p2x.live:8080/adriana1/123456/150
+#EXTINF:0 tvg-id="Discoverykids.br" group-title="INFANTIL",DISCOVERY KIDS HD
+http://p2x.live:8080/adriana1/123456/15
+#EXTINF:0 tvg-id="Disneychannel.br" group-title="INFANTIL",DISNEY CHANNEL
+http://p2x.live:8080/adriana1/123456/346
+#EXTINF:0 tvg-id="Disneychannel.br" group-title="INFANTIL",DISNEY CHANNEL FHD
+http://p2x.live:8080/adriana1/123456/584
+#EXTINF:0 tvg-id="Disneychannel.br" group-title="INFANTIL",DISNEY CHANNEL FHD H265
+http://p2x.live:8080/adriana1/123456/155
+#EXTINF:0 tvg-id="Disneychannel.br" group-title="INFANTIL",DISNEY CHANNEL HD
+http://p2x.live:8080/adriana1/123456/20
+#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="INFANTIL",DISNEY JUNIOR
+http://p2x.live:8080/adriana1/123456/347
+#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="INFANTIL",DISNEY JUNIOR FHD
+http://p2x.live:8080/adriana1/123456/585
+#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="INFANTIL",DISNEY JUNIOR FHD H265
+http://p2x.live:8080/adriana1/123456/156
+#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="INFANTIL",DISNEY JUNIOR HD
+http://p2x.live:8080/adriana1/123456/21
+#EXTINF:0 tvg-id="Disneyxd.br" group-title="INFANTIL",DISNEY XD
+http://p2x.live:8080/adriana1/123456/348
+#EXTINF:0 tvg-id="Gloob.br" group-title="INFANTIL",GLOOB
+http://p2x.live:8080/adriana1/123456/371
+#EXTINF:0 tvg-id="Gloob.br" group-title="INFANTIL",GLOOB FHD
+http://p2x.live:8080/adriana1/123456/586
+#EXTINF:0 tvg-id="Gloob.br" group-title="INFANTIL",GLOOB FHD H265
+http://p2x.live:8080/adriana1/123456/171
+#EXTINF:0 tvg-id="Gloob.br" group-title="INFANTIL",GLOOB HD
+http://p2x.live:8080/adriana1/123456/37
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",GLOOBINHO FHD
+http://p2x.live:8080/adriana1/123456/587
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",GLOOBINHO HD
+http://p2x.live:8080/adriana1/123456/130
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",NATGEO KIDS
+http://p2x.live:8080/adriana1/123456/391
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",NATGEO KIDS FHD
+http://p2x.live:8080/adriana1/123456/588
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",NATGEO KIDS FHD H265
+http://p2x.live:8080/adriana1/123456/191
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",NATGEO KIDS HD
+http://p2x.live:8080/adriana1/123456/55
+#EXTINF:0 tvg-id="nick-jr" group-title="INFANTIL",NICK JR
+http://p2x.live:8080/adriana1/123456/395
+#EXTINF:0 tvg-id="NickJrHD.us" group-title="INFANTIL",NICK JR FHD
+http://p2x.live:8080/adriana1/123456/590
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",NICK JR FHD H265
+http://p2x.live:8080/adriana1/123456/193
+#EXTINF:0 tvg-id="NickJrHD.us" group-title="INFANTIL",NICK JR HD
+http://p2x.live:8080/adriana1/123456/58
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="INFANTIL",NICKELODEON
+http://p2x.live:8080/adriana1/123456/396
+#EXTINF:0 tvg-id="nickelod-hd" group-title="INFANTIL",NICKELODEON FHD
+http://p2x.live:8080/adriana1/123456/589
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",NICKELODEON FHD H265
+http://p2x.live:8080/adriana1/123456/192
+#EXTINF:0 tvg-id="nickelod-hd" group-title="INFANTIL",NICKELODEON HD
+http://p2x.live:8080/adriana1/123456/57
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",PLAY KIDS
+http://p2x.live:8080/adriana1/123456/470
+#EXTINF:0 tvg-id="Tooncast.mx" group-title="INFANTIL",TOONCAST
+http://p2x.live:8080/adriana1/123456/441
+#EXTINF:0 tvg-id="Tooncast.ar" group-title="INFANTIL",TOONCAST FHD
+http://p2x.live:8080/adriana1/123456/593
+#EXTINF:0 tvg-id="Tooncast.ar" group-title="INFANTIL",TOONCAST HD
+http://p2x.live:8080/adriana1/123456/131
+#EXTINF:0 tvg-id="Tvratimbum.br" group-title="INFANTIL",TV RA TIM BUM
+http://p2x.live:8080/adriana1/123456/451
+#EXTINF:0 tvg-id="Tvratimbum.br" group-title="INFANTIL",TV RA TIM BUM HD
+http://p2x.live:8080/adriana1/123456/88
+#EXTINF:0 tvg-id="Zoomoo.br" group-title="INFANTIL",ZOOMOO
+http://p2x.live:8080/adriana1/123456/463
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",ZOOMOO FHD
+http://p2x.live:8080/adriana1/123456/591
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",ZOOMOO HD
+http://p2x.live:8080/adriana1/123456/592
+
+#EXTINF:0 tvg-id="BandRede.br" group-title="BAND",BAND BAHIA
+http://p2x.live:8080/adriana1/123456/327
+#EXTINF:0 tvg-id="BandRede.br" group-title="BAND",BAND BSB HD
+http://p2x.live:8080/adriana1/123456/231
+#EXTINF:0 tvg-id="BandRede.br" group-title="BAND",BAND CAMPINAS HD
+http://p2x.live:8080/adriana1/123456/232
+#EXTINF:0 tvg-id="BandRede.br" group-title="BAND",BAND GOIANIA FHD H265
+http://p2x.live:8080/adriana1/123456/222
+#EXTINF:0 tvg-id="BandRede.br" group-title="BAND",BAND GOIANIA HD
+http://p2x.live:8080/adriana1/123456/87
+#EXTINF:0 tvg-id="BandRede.br" group-title="BAND",BAND PARANA
+http://p2x.live:8080/adriana1/123456/283
+#EXTINF:0 tvg-id="BandRede.br" group-title="BAND",BAND RJ FHD
+http://p2x.live:8080/adriana1/123456/230
+#EXTINF:0 tvg-id="BandRede.br" group-title="BAND",BAND RJ HD
+http://p2x.live:8080/adriana1/123456/233
+#EXTINF:0 tvg-id="BandRede.br" group-title="BAND",BAND RS HD
+http://p2x.live:8080/adriana1/123456/234
+#EXTINF:0 tvg-id="BandRede.br" group-title="BAND",BAND SERGIPE HD
+http://p2x.live:8080/adriana1/123456/235
+#EXTINF:0 tvg-id="BandRede.br" group-title="BAND",BAND SP FHD
+http://p2x.live:8080/adriana1/123456/627
+#EXTINF:0 tvg-id="BandRede.br" group-title="BAND",BAND SP HD
+http://p2x.live:8080/adriana1/123456/236
+#EXTINF:0 tvg-id="BandRede.br" group-title="BAND",BANDEIRANTES
+http://p2x.live:8080/adriana1/123456/328
+
+#EXTINF:0 tvg-id="Bandnews.br" group-title="NOTICIAS",BAND NEWS
+http://p2x.live:8080/adriana1/123456/329
+#EXTINF:0 tvg-id="Bandnews.br" group-title="NOTICIAS",BAND NEWS FHD
+http://p2x.live:8080/adriana1/123456/625
+#EXTINF:0 tvg-id="Bandnews.br" group-title="NOTICIAS",BAND NEWS FHD H265
+http://p2x.live:8080/adriana1/123456/137
+#EXTINF:0 tvg-id="Bandnews.br" group-title="NOTICIAS",BAND NEWS HD
+http://p2x.live:8080/adriana1/123456/112
+#EXTINF:0 tvg-id="Globonews.br" group-title="NOTICIAS",GLOBO NEWS
+http://p2x.live:8080/adriana1/123456/367
+#EXTINF:0 tvg-id="Globonews.br" group-title="NOTICIAS",GLOBO NEWS FHD
+http://p2x.live:8080/adriana1/123456/612
+#EXTINF:0 tvg-id="Globonews.br" group-title="NOTICIAS",GLOBO NEWS FHD H265
+http://p2x.live:8080/adriana1/123456/170
+#EXTINF:0 tvg-id="Globonews.br" group-title="NOTICIAS",GLOBO NEWS HD
+http://p2x.live:8080/adriana1/123456/35
+#EXTINF:0 tvg-id="RecordNews.pt" group-title="NOTICIAS",RECORD NEWS
+http://p2x.live:8080/adriana1/123456/413
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",RECORD NEWS FHD
+http://p2x.live:8080/adriana1/123456/626
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",RECORD NEWS HD
+http://p2x.live:8080/adriana1/123456/113
+
+#EXTINF:0 tvg-id="Bandsports.br" group-title="ESPORTES",BAND SPORTS
+http://p2x.live:8080/adriana1/123456/330
+#EXTINF:0 tvg-id="Bandsports.br" group-title="ESPORTES",BAND SPORTS FHD
+http://p2x.live:8080/adriana1/123456/531
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",BAND SPORTS FHD H265
+http://p2x.live:8080/adriana1/123456/138
+#EXTINF:0 tvg-id="Bandsports.br" group-title="ESPORTES",BAND SPORTS HD
+http://p2x.live:8080/adriana1/123456/5
+#EXTINF:0 tvg-id="Combate.br" group-title="ESPORTES",COMBATE
+http://p2x.live:8080/adriana1/123456/339
+#EXTINF:0 tvg-id="Combate.br" group-title="ESPORTES",COMBATE FHD
+http://p2x.live:8080/adriana1/123456/543
+#EXTINF:0 tvg-id="Combate.br" group-title="ESPORTES",COMBATE FHD H265
+http://p2x.live:8080/adriana1/123456/145
+#EXTINF:0 tvg-id="Combate.br" group-title="ESPORTES",COMBATE HD
+http://p2x.live:8080/adriana1/123456/10
+#EXTINF:0 tvg-id="Espn.br" group-title="ESPORTES",ESPN
+http://p2x.live:8080/adriana1/123456/353
+#EXTINF:0 tvg-id="ESPN+.br" group-title="ESPORTES",ESPN 2
+http://p2x.live:8080/adriana1/123456/354
+#EXTINF:0 tvg-id="ESPN+.br" group-title="ESPORTES",ESPN 2 FHD
+http://p2x.live:8080/adriana1/123456/535
+#EXTINF:0 tvg-id="ESPN+.br" group-title="ESPORTES",ESPN 2 FHD H265
+http://p2x.live:8080/adriana1/123456/160
+#EXTINF:0 tvg-id="ESPN+.br" group-title="ESPORTES",ESPN 2 HD
+http://p2x.live:8080/adriana1/123456/23
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="ESPORTES",ESPN BRASIL
+http://p2x.live:8080/adriana1/123456/355
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="ESPORTES",ESPN BRASIL FHD
+http://p2x.live:8080/adriana1/123456/532
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="ESPORTES",ESPN BRASIL FHD H265
+http://p2x.live:8080/adriana1/123456/161
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="ESPORTES",ESPN BRASIL HD
+http://p2x.live:8080/adriana1/123456/24
+#EXTINF:0 tvg-id="Espnextra.br" group-title="ESPORTES",ESPN EXTRA FHD
+http://p2x.live:8080/adriana1/123456/533
+#EXTINF:0 tvg-id="Espnextra.br" group-title="ESPORTES",ESPN EXTRA FHD H265
+http://p2x.live:8080/adriana1/123456/158
+#EXTINF:0 tvg-id="Espnextra.br" group-title="ESPORTES",ESPN EXTRA HD
+http://p2x.live:8080/adriana1/123456/26
+#EXTINF:0 tvg-id="Espn.br" group-title="ESPORTES",ESPN FHD
+http://p2x.live:8080/adriana1/123456/534
+#EXTINF:0 tvg-id="Espn.br" group-title="ESPORTES",ESPN FHD H265
+http://p2x.live:8080/adriana1/123456/159
+#EXTINF:0 tvg-id="Espn.br" group-title="ESPORTES",ESPN HD
+http://p2x.live:8080/adriana1/123456/25
+#EXTINF:0 tvg-id="Foxsports.br" group-title="ESPORTES",FOX SPORTS
+http://p2x.live:8080/adriana1/123456/361
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="ESPORTES",FOX SPORTS 2
+http://p2x.live:8080/adriana1/123456/362
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="ESPORTES",FOX SPORTS 2 FHD
+http://p2x.live:8080/adriana1/123456/536
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="ESPORTES",FOX SPORTS 2 FHD H265
+http://p2x.live:8080/adriana1/123456/168
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="ESPORTES",FOX SPORTS 2 HD
+http://p2x.live:8080/adriana1/123456/32
+#EXTINF:0 tvg-id="Foxsports.br" group-title="ESPORTES",FOX SPORTS FHD
+http://p2x.live:8080/adriana1/123456/537
+#EXTINF:0 tvg-id="Foxsports.br" group-title="ESPORTES",FOX SPORTS FHD H265
+http://p2x.live:8080/adriana1/123456/167
+#EXTINF:0 tvg-id="Foxsports.br" group-title="ESPORTES",FOX SPORTS HD
+http://p2x.live:8080/adriana1/123456/33
+#EXTINF:0 tvg-id="Sportv.br" group-title="ESPORTES",SPORTV
+http://p2x.live:8080/adriana1/123456/424
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="ESPORTES",SPORTV 2
+http://p2x.live:8080/adriana1/123456/425
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="ESPORTES",SPORTV 2 FHD
+http://p2x.live:8080/adriana1/123456/540
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",SPORTV 2 FHD H265
+http://p2x.live:8080/adriana1/123456/206
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="ESPORTES",SPORTV 2 HD
+http://p2x.live:8080/adriana1/123456/71
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="ESPORTES",SPORTV 3
+http://p2x.live:8080/adriana1/123456/426
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="ESPORTES",SPORTV 3 FHD
+http://p2x.live:8080/adriana1/123456/541
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",SPORTV 3 FHD H265
+http://p2x.live:8080/adriana1/123456/207
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="ESPORTES",SPORTV 3 HD
+http://p2x.live:8080/adriana1/123456/72
+#EXTINF:0 tvg-id="Sportv.br" group-title="ESPORTES",SPORTV FHD
+http://p2x.live:8080/adriana1/123456/539
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",SPORTV FHD H265
+http://p2x.live:8080/adriana1/123456/208
+#EXTINF:0 tvg-id="Sportv.br" group-title="ESPORTES",SPORTV HD
+http://p2x.live:8080/adriana1/123456/73
+
+#EXTINF:0 tvg-id="Bis.br" group-title="MUSICAS E VARIEDADES",BIS
+http://p2x.live:8080/adriana1/123456/331
+#EXTINF:0 tvg-id="Bis.br" group-title="MUSICAS E VARIEDADES",BIS FHD H265
+http://p2x.live:8080/adriana1/123456/139
+#EXTINF:0 tvg-id="Bis.br" group-title="MUSICAS E VARIEDADES",BIS HD
+http://p2x.live:8080/adriana1/123456/6
+#EXTINF:0 tvg-id="Comedycentral.br" group-title="MUSICAS E VARIEDADES",COMEDY CENTRAL
+http://p2x.live:8080/adriana1/123456/340
+#EXTINF:0 tvg-id="Comedycentral.br" group-title="MUSICAS E VARIEDADES",COMEDY CENTRAL FHD
+http://p2x.live:8080/adriana1/123456/617
+#EXTINF:0 tvg-id="Comedycentral.br" group-title="MUSICAS E VARIEDADES",COMEDY CENTRAL FHD H265
+http://p2x.live:8080/adriana1/123456/146
+#EXTINF:0 tvg-id="Comedycentral.br" group-title="MUSICAS E VARIEDADES",COMEDY CENTRAL HD
+http://p2x.live:8080/adriana1/123456/11
+#EXTINF:0 tvg-id="ext" group-title="MUSICAS E VARIEDADES",CURTA!
+http://p2x.live:8080/adriana1/123456/341
+#EXTINF:0 tvg-id="E.br" group-title="MUSICAS E VARIEDADES",E!
+http://p2x.live:8080/adriana1/123456/349
+#EXTINF:0 tvg-id="E.br" group-title="MUSICAS E VARIEDADES",E! FHD
+http://p2x.live:8080/adriana1/123456/623
+#EXTINF:0 tvg-id="E.br" group-title="MUSICAS E VARIEDADES",E! FHD H265
+http://p2x.live:8080/adriana1/123456/157
+#EXTINF:0 tvg-id="E.br" group-title="MUSICAS E VARIEDADES",E! HD
+http://p2x.live:8080/adriana1/123456/22
+#EXTINF:0 tvg-id="Fishtv.br" group-title="MUSICAS E VARIEDADES",FISH TV
+http://p2x.live:8080/adriana1/123456/357
+#EXTINF:0 tvg-id="Fishtv.br" group-title="MUSICAS E VARIEDADES",FISH TV FHD H265
+http://p2x.live:8080/adriana1/123456/162
+#EXTINF:0 tvg-id="Foodnetworkhd.br" group-title="MUSICAS E VARIEDADES",FOOD  NETWORK FHD
+http://p2x.live:8080/adriana1/123456/622
+#EXTINF:0 tvg-id="Foodnetworkhd.br" group-title="MUSICAS E VARIEDADES",FOOD NETWORK
+http://p2x.live:8080/adriana1/123456/358
+#EXTINF:0 tvg-id="Foodnetworkhd.br" group-title="MUSICAS E VARIEDADES",FOOD NETWORK FHD H265
+http://p2x.live:8080/adriana1/123456/163
+#EXTINF:0 tvg-id="Foodnetworkhd.br" group-title="MUSICAS E VARIEDADES",FOOD NETWORK HD
+http://p2x.live:8080/adriana1/123456/27
+#EXTINF:0 tvg-id="Gnt.br" group-title="MUSICAS E VARIEDADES",GNT
+http://p2x.live:8080/adriana1/123456/372
+#EXTINF:0 tvg-id="Gnt.br" group-title="MUSICAS E VARIEDADES",GNT FHD
+http://p2x.live:8080/adriana1/123456/621
+#EXTINF:0 tvg-id="Gnt.br" group-title="MUSICAS E VARIEDADES",GNT FHD H265
+http://p2x.live:8080/adriana1/123456/172
+#EXTINF:0 tvg-id="Gnt.br" group-title="MUSICAS E VARIEDADES",GNT HD
+http://p2x.live:8080/adriana1/123456/38
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="MUSICAS E VARIEDADES",LIFETIME
+http://p2x.live:8080/adriana1/123456/381
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="MUSICAS E VARIEDADES",LIFETIME FHD
+http://p2x.live:8080/adriana1/123456/560
+#EXTINF:0 tvg-id="ext" group-title="MUSICAS E VARIEDADES",LIFETIME FHD H265
+http://p2x.live:8080/adriana1/123456/181
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="MUSICAS E VARIEDADES",LIFETIME HD
+http://p2x.live:8080/adriana1/123456/47
+#EXTINF:0 tvg-id="LoveNature.nl" group-title="MUSICAS E VARIEDADES",LOVE NATURE FHD
+http://p2x.live:8080/adriana1/123456/228
+#EXTINF:0 tvg-id="mtv-rus" group-title="MUSICAS E VARIEDADES",MTV
+http://p2x.live:8080/adriana1/123456/387
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="MUSICAS E VARIEDADES",MTV FHD
+http://p2x.live:8080/adriana1/123456/613
+#EXTINF:0 tvg-id="ext" group-title="MUSICAS E VARIEDADES",MTV FHD H265
+http://p2x.live:8080/adriana1/123456/187
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="MUSICAS E VARIEDADES",MTV HD
+http://p2x.live:8080/adriana1/123456/52
+#EXTINF:0 tvg-id="Multishow.br" group-title="MUSICAS E VARIEDADES",MULTISHOW
+http://p2x.live:8080/adriana1/123456/388
+#EXTINF:0 tvg-id="Multishow.br" group-title="MUSICAS E VARIEDADES",MULTISHOW FHD
+http://p2x.live:8080/adriana1/123456/619
+#EXTINF:0 tvg-id="ext" group-title="MUSICAS E VARIEDADES",MULTISHOW FHD H265
+http://p2x.live:8080/adriana1/123456/188
+#EXTINF:0 tvg-id="Multishow.br" group-title="MUSICAS E VARIEDADES",MULTISHOW HD
+http://p2x.live:8080/adriana1/123456/53
+#EXTINF:0 tvg-id="ext" group-title="MUSICAS E VARIEDADES",MUSIC BOX BRAZIL
+http://p2x.live:8080/adriana1/123456/389
+#EXTINF:0 tvg-id="ext" group-title="MUSICAS E VARIEDADES",MUSIC BOX BRAZIL HD
+http://p2x.live:8080/adriana1/123456/390
+#EXTINF:0 tvg-id="Off.br" group-title="MUSICAS E VARIEDADES",OFF
+http://p2x.live:8080/adriana1/123456/397
+#EXTINF:0 tvg-id="Off.br" group-title="MUSICAS E VARIEDADES",OFF FHD
+http://p2x.live:8080/adriana1/123456/618
+#EXTINF:0 tvg-id="ext" group-title="MUSICAS E VARIEDADES",OFF FHD H265
+http://p2x.live:8080/adriana1/123456/194
+#EXTINF:0 tvg-id="Off.br" group-title="MUSICAS E VARIEDADES",OFF HD
+http://p2x.live:8080/adriana1/123456/59
+#EXTINF:0 tvg-id="PlayTV.lt" group-title="MUSICAS E VARIEDADES",PLAY TV
+http://p2x.live:8080/adriana1/123456/400
+#EXTINF:0 tvg-id="ext" group-title="MUSICAS E VARIEDADES",PRIME BOX BRAZIL
+http://p2x.live:8080/adriana1/123456/411
+#EXTINF:0 tvg-id="ext" group-title="MUSICAS E VARIEDADES",SMITHSONIAN HD
+http://p2x.live:8080/adriana1/123456/114
+#EXTINF:0 tvg-id="TruTV.uk" group-title="MUSICAS E VARIEDADES",TRUTV
+http://p2x.live:8080/adriana1/123456/442
+#EXTINF:0 tvg-id="ext" group-title="MUSICAS E VARIEDADES",VH1 FHD H265
+http://p2x.live:8080/adriana1/123456/225
+#EXTINF:0 tvg-id="VH1UK.uk" group-title="MUSICAS E VARIEDADES",VH1 HD
+http://p2x.live:8080/adriana1/123456/91
+#EXTINF:0 tvg-id="Vh1MegaHits.cl" group-title="MUSICAS E VARIEDADES",VH1 MEGA HITS
+http://p2x.live:8080/adriana1/123456/459
+#EXTINF:0 tvg-id="Viva.uk" group-title="MUSICAS E VARIEDADES",VIVA
+http://p2x.live:8080/adriana1/123456/460
+#EXTINF:0 tvg-id="Viva.br" group-title="MUSICAS E VARIEDADES",VIVA FHD
+http://p2x.live:8080/adriana1/123456/624
+#EXTINF:0 tvg-id="Viva.br" group-title="MUSICAS E VARIEDADES",VIVA HD
+http://p2x.live:8080/adriana1/123456/92
+#EXTINF:0 tvg-id="Woohoo.br" group-title="MUSICAS E VARIEDADES",WOOHOO
+http://p2x.live:8080/adriana1/123456/462
+#EXTINF:0 tvg-id="ext" group-title="MUSICAS E VARIEDADES",WOOHOO FHD H265
+http://p2x.live:8080/adriana1/123456/227
+
+#EXTINF:0 tvg-id="CanaldoBoi.br" group-title="ABERTOS E RELIGIOSOS",CANAL DO BOI
+http://p2x.live:8080/adriana1/123456/334
+#EXTINF:0 tvg-id="CancaoNova.br" group-title="ABERTOS E RELIGIOSOS",CANCAO NOVA
+http://p2x.live:8080/adriana1/123456/336
+#EXTINF:0 tvg-id="CancaoNova.br" group-title="ABERTOS E RELIGIOSOS",CANCAO NOVA ES
+http://p2x.live:8080/adriana1/123456/313
+#EXTINF:0 tvg-id="CancaoNova.br" group-title="ABERTOS E RELIGIOSOS",CANCAO NOVA ES FHD
+http://p2x.live:8080/adriana1/123456/311
+#EXTINF:0 tvg-id="CancaoNova.br" group-title="ABERTOS E RELIGIOSOS",CANCAO NOVA ES HD
+http://p2x.live:8080/adriana1/123456/312
+#EXTINF:0 tvg-id="Futura.br" group-title="ABERTOS E RELIGIOSOS",FUTURA
+http://p2x.live:8080/adriana1/123456/363
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS E RELIGIOSOS",NOVO TEMPO
+http://p2x.live:8080/adriana1/123456/466
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS E RELIGIOSOS",NOVO TEMPO HD
+http://p2x.live:8080/adriana1/123456/115
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS E RELIGIOSOS",POLISHOPTV
+http://p2x.live:8080/adriana1/123456/401
+#EXTINF:0 tvg-id="Redebrasil.br" group-title="ABERTOS E RELIGIOSOS",REDE BRASIL
+http://p2x.live:8080/adriana1/123456/416
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS E RELIGIOSOS",REDE MINAS HD
+http://p2x.live:8080/adriana1/123456/116
+#EXTINF:0 tvg-id="Redetv.br" group-title="ABERTOS E RELIGIOSOS",REDE TV
+http://p2x.live:8080/adriana1/123456/417
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS E RELIGIOSOS",REDE TV ES
+http://p2x.live:8080/adriana1/123456/310
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS E RELIGIOSOS",REDE TV ES FHD
+http://p2x.live:8080/adriana1/123456/308
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS E RELIGIOSOS",REDE TV ES HD
+http://p2x.live:8080/adriana1/123456/309
+#EXTINF:0 tvg-id="Redetv.br" group-title="ABERTOS E RELIGIOSOS",REDE TV FHD
+http://p2x.live:8080/adriana1/123456/628
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS E RELIGIOSOS",REDE TV FHD H265
+http://p2x.live:8080/adriana1/123456/204
+#EXTINF:0 tvg-id="Redetv.br" group-title="ABERTOS E RELIGIOSOS",REDE TV HD
+http://p2x.live:8080/adriana1/123456/69
+#EXTINF:0 tvg-id="Redevida.br" group-title="ABERTOS E RELIGIOSOS",REDE VIDA
+http://p2x.live:8080/adriana1/123456/418
+#EXTINF:0 tvg-id="Terraviva.br" group-title="ABERTOS E RELIGIOSOS",TERRA VIVA
+http://p2x.live:8080/adriana1/123456/437
+#EXTINF:0 tvg-id="Tvaparecida.br" group-title="ABERTOS E RELIGIOSOS",TV APARECIDA
+http://p2x.live:8080/adriana1/123456/444
+#EXTINF:0 tvg-id="Tvbrasil.br" group-title="ABERTOS E RELIGIOSOS",TV BRASIL HD
+http://p2x.live:8080/adriana1/123456/128
+#EXTINF:0 tvg-id="Tvcamara.br" group-title="ABERTOS E RELIGIOSOS",TV CAMARA
+http://p2x.live:8080/adriana1/123456/446
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS E RELIGIOSOS",TV CAPIXABA HD
+http://p2x.live:8080/adriana1/123456/299
+#EXTINF:0 tvg-id="Tvcultura.br" group-title="ABERTOS E RELIGIOSOS",TV CULTURA
+http://p2x.live:8080/adriana1/123456/448
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS E RELIGIOSOS",TV CULTURA ES
+http://p2x.live:8080/adriana1/123456/316
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS E RELIGIOSOS",TV CULTURA ES FHD
+http://p2x.live:8080/adriana1/123456/314
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS E RELIGIOSOS",TV CULTURA ES HD
+http://p2x.live:8080/adriana1/123456/315
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS E RELIGIOSOS",TV DIARIO HD
+http://p2x.live:8080/adriana1/123456/117
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS E RELIGIOSOS",TV EVANGELIZAR
+http://p2x.live:8080/adriana1/123456/471
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS E RELIGIOSOS",TV IDEAL
+http://p2x.live:8080/adriana1/123456/468
+#EXTINF:0 tvg-id="Tvjustica.br" group-title="ABERTOS E RELIGIOSOS",TV JUSTICA
+http://p2x.live:8080/adriana1/123456/449
+#EXTINF:0 tvg-id="Tvsenado.br" group-title="ABERTOS E RELIGIOSOS",TV SENADO
+http://p2x.live:8080/adriana1/123456/452
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS E RELIGIOSOS",TV VITORIA ES
+http://p2x.live:8080/adriana1/123456/275
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS E RELIGIOSOS",TV VITORIA ES FHD
+http://p2x.live:8080/adriana1/123456/276
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS E RELIGIOSOS",TV VITORIA ES HD
+http://p2x.live:8080/adriana1/123456/277
+
+#EXTINF:0 tvg-id="ext" group-title="ANIMES 24HRS",CAPITAO TSUBASA
+http://p2x.live:8080/adriana1/123456/223157
+#EXTINF:0 tvg-id="ext" group-title="ANIMES 24HRS",DRAGON BALL GT
+http://p2x.live:8080/adriana1/123456/223153
+
+#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",CHUCK
+http://p2x.live:8080/adriana1/123456/223168
+#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",DOIS HOMENS E MEIO
+http://p2x.live:8080/adriana1/123456/223163
+#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",ESCOLINHA DO PROFESSOR RAIMUNDO
+http://p2x.live:8080/adriana1/123456/223166
+#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",EU A PATROA E AS CRIANCAS
+http://p2x.live:8080/adriana1/123456/223151
+#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",TODO MUNDO ODEIA O CHRIS
+http://p2x.live:8080/adriana1/123456/223155
+
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES ONDEMAND",CONMEBOL 1
+http://p2x.live:8080/adriana1/123456/472
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES ONDEMAND",CONMEBOL 1 FHD
+http://p2x.live:8080/adriana1/123456/122
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES ONDEMAND",CONMEBOL 1 HD
+http://p2x.live:8080/adriana1/123456/124
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES ONDEMAND",CONMEBOL 2
+http://p2x.live:8080/adriana1/123456/476
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES ONDEMAND",CONMEBOL 2 FHD
+http://p2x.live:8080/adriana1/123456/123
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES ONDEMAND",CONMEBOL 2 HD
+http://p2x.live:8080/adriana1/123456/125
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES ONDEMAND",CONMEBOL 3
+http://p2x.live:8080/adriana1/123456/475
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES ONDEMAND",CONMEBOL 3 FHD
+http://p2x.live:8080/adriana1/123456/126
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES ONDEMAND",CONMEBOL 3 HD
+http://p2x.live:8080/adriana1/123456/127
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES ONDEMAND",CONMEBOL 4
+http://p2x.live:8080/adriana1/123456/473
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES ONDEMAND",DAZN 01 HD
+http://p2x.live:8080/adriana1/123456/237
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES ONDEMAND",DAZN 02 HD
+http://p2x.live:8080/adriana1/123456/238
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES ONDEMAND",DAZN 03 HD
+http://p2x.live:8080/adriana1/123456/239
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES ONDEMAND",DAZN 04 HD
+http://p2x.live:8080/adriana1/123456/118
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES ONDEMAND",EI PLUS
+http://p2x.live:8080/adriana1/123456/474
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES ONDEMAND",EI PLUS 1
+http://p2x.live:8080/adriana1/123456/240
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES ONDEMAND",EI PLUS 2
+http://p2x.live:8080/adriana1/123456/241
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES ONDEMAND",EI PLUS 3
+http://p2x.live:8080/adriana1/123456/242
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES ONDEMAND",EI PLUS 4
+http://p2x.live:8080/adriana1/123456/243
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES ONDEMAND",EI PLUS HD
+http://p2x.live:8080/adriana1/123456/244
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES ONDEMAND",FURACAO TV
+http://p2x.live:8080/adriana1/123456/121
+
+#EXTINF:0 tvg-id="TVGlobo.br" group-title="GLOBOS",GLOBO BRASILIA
+http://p2x.live:8080/adriana1/123456/365
+#EXTINF:0 tvg-id="TVGlobo.br" group-title="GLOBOS",GLOBO BRASILIA FHD H265
+http://p2x.live:8080/adriana1/123456/519
+#EXTINF:0 tvg-id="TVGlobo.br" group-title="GLOBOS",GLOBO BRASILIA HD
+http://p2x.live:8080/adriana1/123456/246
+#EXTINF:0 tvg-id="TVGlobo.br" group-title="GLOBOS",GLOBO CAMPINAS
+http://p2x.live:8080/adriana1/123456/351
+#EXTINF:0 tvg-id="TVGlobo.br" group-title="GLOBOS",GLOBO CAMPINAS FHD
+http://p2x.live:8080/adriana1/123456/289
+#EXTINF:0 tvg-id="TVGlobo.br" group-title="GLOBOS",GLOBO CAMPINAS HD
+http://p2x.live:8080/adriana1/123456/288
+#EXTINF:0 tvg-id="TVGlobo.br" group-title="GLOBOS",GLOBO MINAS
+http://p2x.live:8080/adriana1/123456/366
+#EXTINF:0 tvg-id="TVGlobo.br" group-title="GLOBOS",GLOBO MINAS HD
+http://p2x.live:8080/adriana1/123456/524
+#EXTINF:0 tvg-id="TVGlobo.br" group-title="GLOBOS",GLOBO SP
+http://p2x.live:8080/adriana1/123456/370
+#EXTINF:0 tvg-id="TVGlobo.br" group-title="GLOBOS",GLOBO SP FHD
+http://p2x.live:8080/adriana1/123456/515
+#EXTINF:0 tvg-id="TVGlobo.br" group-title="GLOBOS",GLOBO SP FHD H265
+http://p2x.live:8080/adriana1/123456/514
+#EXTINF:0 tvg-id="TVGlobo.br" group-title="GLOBOS",GLOBO SP HD
+http://p2x.live:8080/adriana1/123456/252
+
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="REDE HBO",HBO
+http://p2x.live:8080/adriana1/123456/223214
+#EXTINF:0 tvg-id="HBO2.cz" group-title="REDE HBO",HBO 2
+http://p2x.live:8080/adriana1/123456/223199
+#EXTINF:0 tvg-id="HBO2.pl" group-title="REDE HBO",HBO 2 FHD
+http://p2x.live:8080/adriana1/123456/223197
+#EXTINF:0 tvg-id="HBO2.pl" group-title="REDE HBO",HBO 2 HD
+http://p2x.live:8080/adriana1/123456/223198
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="REDE HBO",HBO FAMILY
+http://p2x.live:8080/adriana1/123456/223202
+#EXTINF:0 tvg-id="HBOFamilyHD.cl" group-title="REDE HBO",HBO FAMILY FHD
+http://p2x.live:8080/adriana1/123456/223200
+#EXTINF:0 tvg-id="HBOFamilyHD.cl" group-title="REDE HBO",HBO FAMILY HD
+http://p2x.live:8080/adriana1/123456/223201
+#EXTINF:0 tvg-id="HBO.hu" group-title="REDE HBO",HBO FHD
+http://p2x.live:8080/adriana1/123456/223203
+#EXTINF:0 tvg-id="HBO.hu" group-title="REDE HBO",HBO HD
+http://p2x.live:8080/adriana1/123456/223204
+#EXTINF:0 tvg-id="Max.br" group-title="REDE HBO",HBO MUNDI
+http://p2x.live:8080/adriana1/123456/223207
+#EXTINF:0 tvg-id="Maxhd.br" group-title="REDE HBO",HBO MUNDI FHD
+http://p2x.live:8080/adriana1/123456/223205
+#EXTINF:0 tvg-id="Maxhd.br" group-title="REDE HBO",HBO MUNDI HD
+http://p2x.live:8080/adriana1/123456/223206
+#EXTINF:0 tvg-id="Hboplus.br" group-title="REDE HBO",HBO PLUS
+http://p2x.live:8080/adriana1/123456/223210
+#EXTINF:0 tvg-id="Hboplushd.br" group-title="REDE HBO",HBO PLUS FHD
+http://p2x.live:8080/adriana1/123456/223208
+#EXTINF:0 tvg-id="Hboplushd.br" group-title="REDE HBO",HBO PLUS HD
+http://p2x.live:8080/adriana1/123456/223209
+#EXTINF:0 tvg-id="Maxup.br" group-title="REDE HBO",HBO POP
+http://p2x.live:8080/adriana1/123456/223213
+#EXTINF:0 tvg-id="ext" group-title="REDE HBO",HBO POP FHD
+http://p2x.live:8080/adriana1/123456/223211
+#EXTINF:0 tvg-id="ext" group-title="REDE HBO",HBO POP HD
+http://p2x.live:8080/adriana1/123456/223212
+#EXTINF:0 tvg-id="HBOSignature.mx" group-title="REDE HBO",HBO SIGNATURE
+http://p2x.live:8080/adriana1/123456/223217
+#EXTINF:0 tvg-id="HBOSignature.us" group-title="REDE HBO",HBO SIGNATURE FHD
+http://p2x.live:8080/adriana1/123456/223215
+#EXTINF:0 tvg-id="HBOSignature.us" group-title="REDE HBO",HBO SIGNATURE HD
+http://p2x.live:8080/adriana1/123456/223216
+#EXTINF:0 tvg-id="Maxprime.br" group-title="REDE HBO",HBO XTREME
+http://p2x.live:8080/adriana1/123456/223220
+#EXTINF:0 tvg-id="Maxprimehd.br" group-title="REDE HBO",HBO XTREME FHD
+http://p2x.live:8080/adriana1/123456/223218
+#EXTINF:0 tvg-id="Maxprimehd.br" group-title="REDE HBO",HBO XTREME HD
+http://p2x.live:8080/adriana1/123456/223219
+
+#EXTINF:0 tvg-id="Premiere2.br" group-title="PREMIERES",PREMIERE 2
+http://p2x.live:8080/adriana1/123456/402
+#EXTINF:0 tvg-id="ext" group-title="PREMIERES",PREMIERE 2 FHD
+http://p2x.live:8080/adriana1/123456/574
+#EXTINF:0 tvg-id="ext" group-title="PREMIERES",PREMIERE 2 FHD H265
+http://p2x.live:8080/adriana1/123456/197
+#EXTINF:0 tvg-id="ext" group-title="PREMIERES",PREMIERE 2 HD
+http://p2x.live:8080/adriana1/123456/61
+#EXTINF:0 tvg-id="Premiere3.br" group-title="PREMIERES",PREMIERE 3
+http://p2x.live:8080/adriana1/123456/403
+#EXTINF:0 tvg-id="ext" group-title="PREMIERES",PREMIERE 3 FHD
+http://p2x.live:8080/adriana1/123456/573
+#EXTINF:0 tvg-id="ext" group-title="PREMIERES",PREMIERE 3 FHD H265
+http://p2x.live:8080/adriana1/123456/198
+#EXTINF:0 tvg-id="ext" group-title="PREMIERES",PREMIERE 3 HD
+http://p2x.live:8080/adriana1/123456/62
+#EXTINF:0 tvg-id="Premiere4.br" group-title="PREMIERES",PREMIERE 4
+http://p2x.live:8080/adriana1/123456/404
+#EXTINF:0 tvg-id="Premiere4.br" group-title="PREMIERES",PREMIERE 4 FHD
+http://p2x.live:8080/adriana1/123456/572
+#EXTINF:0 tvg-id="ext" group-title="PREMIERES",PREMIERE 4 FHD H265
+http://p2x.live:8080/adriana1/123456/199
+#EXTINF:0 tvg-id="Premiere4.br" group-title="PREMIERES",PREMIERE 4 HD
+http://p2x.live:8080/adriana1/123456/63
+#EXTINF:0 tvg-id="Premiere5.br" group-title="PREMIERES",PREMIERE 5
+http://p2x.live:8080/adriana1/123456/405
+#EXTINF:0 tvg-id="ext" group-title="PREMIERES",PREMIERE 5 FHD
+http://p2x.live:8080/adriana1/123456/571
+#EXTINF:0 tvg-id="ext" group-title="PREMIERES",PREMIERE 5 FHD H265
+http://p2x.live:8080/adriana1/123456/200
+#EXTINF:0 tvg-id="ext" group-title="PREMIERES",PREMIERE 5 HD
+http://p2x.live:8080/adriana1/123456/64
+#EXTINF:0 tvg-id="Premiere6.br" group-title="PREMIERES",PREMIERE 6
+http://p2x.live:8080/adriana1/123456/406
+#EXTINF:0 tvg-id="Premiere6.br" group-title="PREMIERES",PREMIERE 6 FHD
+http://p2x.live:8080/adriana1/123456/570
+#EXTINF:0 tvg-id="ext" group-title="PREMIERES",PREMIERE 6 FHD H265
+http://p2x.live:8080/adriana1/123456/201
+#EXTINF:0 tvg-id="Premiere6.br" group-title="PREMIERES",PREMIERE 6 HD
+http://p2x.live:8080/adriana1/123456/65
+#EXTINF:0 tvg-id="Premiere7.br" group-title="PREMIERES",PREMIERE 7
+http://p2x.live:8080/adriana1/123456/407
+#EXTINF:0 tvg-id="Premiere7.br" group-title="PREMIERES",PREMIERE 7 FHD
+http://p2x.live:8080/adriana1/123456/569
+#EXTINF:0 tvg-id="ext" group-title="PREMIERES",PREMIERE 7 FHD H265
+http://p2x.live:8080/adriana1/123456/202
+#EXTINF:0 tvg-id="Premiere7.br" group-title="PREMIERES",PREMIERE 7 HD
+http://p2x.live:8080/adriana1/123456/66
+#EXTINF:0 tvg-id="Premiere8.br" group-title="PREMIERES",PREMIERE 8
+http://p2x.live:8080/adriana1/123456/408
+#EXTINF:0 tvg-id="Premiere9.br" group-title="PREMIERES",PREMIERE 9
+http://p2x.live:8080/adriana1/123456/409
+#EXTINF:0 tvg-id="ext" group-title="PREMIERES",PREMIERE CLUBE FHD
+http://p2x.live:8080/adriana1/123456/538
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="PREMIERES",PREMIERE CLUBES
+http://p2x.live:8080/adriana1/123456/410
+#EXTINF:0 tvg-id="ext" group-title="PREMIERES",PREMIERE CLUBES FHD H265
+http://p2x.live:8080/adriana1/123456/196
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="PREMIERES",PREMIERE CLUBES HD
+http://p2x.live:8080/adriana1/123456/67
+
+#EXTINF:0 tvg-id="Rederecord.br" group-title="RECORD",RECORD
+http://p2x.live:8080/adriana1/123456/414
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD BRASILIA HD
+http://p2x.live:8080/adriana1/123456/254
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD CAMPINAS HD
+http://p2x.live:8080/adriana1/123456/278
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD RJ HD
+http://p2x.live:8080/adriana1/123456/262
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD RS HD
+http://p2x.live:8080/adriana1/123456/256
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD SANTA CATARINA HD
+http://p2x.live:8080/adriana1/123456/280
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD SANTOS
+http://p2x.live:8080/adriana1/123456/260
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD SAO JOSE RIO PRETO HD
+http://p2x.live:8080/adriana1/123456/257
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD SERGIPE ATALAIA HD
+http://p2x.live:8080/adriana1/123456/258
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD SP FHD H265
+http://p2x.live:8080/adriana1/123456/527
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD SP HD
+http://p2x.live:8080/adriana1/123456/526
+
+#EXTINF:0 tvg-id="Sbt.br" group-title="SBT",SBT SP FHD
+http://p2x.live:8080/adriana1/123456/629
+#EXTINF:0 tvg-id="Sbt.br" group-title="SBT",SBT SP HD
+http://p2x.live:8080/adriana1/123456/266
+
+#EXTINF:0 tvg-id="Tcaction.br" group-title="REDE TELECINE",TELECINE ACTION
+http://p2x.live:8080/adriana1/123456/223181
+#EXTINF:0 tvg-id="Tcaction.br" group-title="REDE TELECINE",TELECINE ACTION FHD
+http://p2x.live:8080/adriana1/123456/223179
+#EXTINF:0 tvg-id="Tcaction.br" group-title="REDE TELECINE",TELECINE ACTION HD
+http://p2x.live:8080/adriana1/123456/223180
+#EXTINF:0 tvg-id="Tccult.br" group-title="REDE TELECINE",TELECINE CULT
+http://p2x.live:8080/adriana1/123456/223184
+#EXTINF:0 tvg-id="Tcculthd.br" group-title="REDE TELECINE",TELECINE CULT FHD
+http://p2x.live:8080/adriana1/123456/223182
+#EXTINF:0 tvg-id="Tcculthd.br" group-title="REDE TELECINE",TELECINE CULT HD
+http://p2x.live:8080/adriana1/123456/223183
+#EXTINF:0 tvg-id="Tcfun.br" group-title="REDE TELECINE",TELECINE FUN
+http://p2x.live:8080/adriana1/123456/223187
+#EXTINF:0 tvg-id="Telecinefunhd.br" group-title="REDE TELECINE",TELECINE FUN FHD
+http://p2x.live:8080/adriana1/123456/223185
+#EXTINF:0 tvg-id="Telecinefunhd.br" group-title="REDE TELECINE",TELECINE FUN HD
+http://p2x.live:8080/adriana1/123456/223186
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="REDE TELECINE",TELECINE PIPOCA
+http://p2x.live:8080/adriana1/123456/223190
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="REDE TELECINE",TELECINE PIPOCA FHD
+http://p2x.live:8080/adriana1/123456/223188
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="REDE TELECINE",TELECINE PIPOCA HD
+http://p2x.live:8080/adriana1/123456/223189
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="REDE TELECINE",TELECINE PREMIUM
+http://p2x.live:8080/adriana1/123456/223193
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="REDE TELECINE",TELECINE PREMIUM FHD
+http://p2x.live:8080/adriana1/123456/223191
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="REDE TELECINE",TELECINE PREMIUM HD
+http://p2x.live:8080/adriana1/123456/223192
+#EXTINF:0 tvg-id="Tctouch.br" group-title="REDE TELECINE",TELECINE TOUCH
+http://p2x.live:8080/adriana1/123456/223196
+#EXTINF:0 tvg-id="Tctouchhd.br" group-title="REDE TELECINE",TELECINE TOUCH FHD
+http://p2x.live:8080/adriana1/123456/223194
+#EXTINF:0 tvg-id="Tctouchhd.br" group-title="REDE TELECINE",TELECINE TOUCH HD
+http://p2x.live:8080/adriana1/123456/223195
+
